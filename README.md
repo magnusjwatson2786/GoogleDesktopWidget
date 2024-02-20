@@ -7,8 +7,8 @@
 Since there was no Google Searchbar for desktop/Windows, like there are for Androids and iOS, I made one for myself using the Google API.
 
 *yes it autosuggests as you type*
-Add it to your startup and done.
 
+Add it to your startup and done.
 Made using Python and PySide6 
 
 ## Screenshots
