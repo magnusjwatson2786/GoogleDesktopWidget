@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/github/last-commit/magnusjwatson2786/GoogleDesktopWidget">
 <img src="https://img.shields.io/github/license/magnusjwatson2786/GoogleDesktopWidget">
 </p>
-Since there was no Google Searchbar for desktop/Windows, like there are for Androids and iOS, I made one for myself using the Google API. 
+Since there was no Google Searchbar for desktop/Windows, like there are for Androids and iOS, I made one for myself using the Google API.
+
+*yes it autosuggests as you type*
 Add it to your startup and done.
 
 Made using Python and PySide6 
