@@ -9,6 +9,7 @@ Since there was no Google Searchbar for desktop/Windows, like there are for Andr
 *yes it autosuggests as you type*
 
 Add it to your startup and done.
+
 Made using Python and PySide6 
 
 ## Screenshots
